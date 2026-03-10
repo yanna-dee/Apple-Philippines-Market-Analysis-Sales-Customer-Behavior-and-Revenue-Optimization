@@ -1,10 +1,15 @@
-# E-commerce Conversion Rate and Sales Analysis (SQL Project)
-This project analyzes e-commerce transaction data using SQL to identify trends in sales performance, customer behavior, and conversion rates. The goal is to generate insights that can help improve product performance and increase revenue.
-# Business Problem
-E-commerce platforms track large volumes of customer interactions including product views, purchases, and transactions. Understanding conversion rates and sales trends can help businesses identify high-performing products, optimize marketing strategies, and improve customer experience. Through this project, we aim to answer the following questions:
+# E-commerce Sales Analysis by Product Category (SQL Project)
+This project analyzes e-commerce sales data using SQL to identify top-performing product categories, revenue trends, and purchasing behavior. The analysis aims to help businesses understand which product categories contribute the most to overall revenue and sales volume.
 
-1. Which products generate the most revenue?
-2. What is the overall conversion rate?
-3. Which product categories have the highest conversion rates?
-4. What time periods generate the highest sales?
-5. Which customers contribute the most revenue?
+Understanding category performance helps companies:
+1. Optimize product inventory
+2. Improve marketing strategies
+3. Focus promotions on high-performing categories
+   
+# Business Problem
+This analysis answers the following questions:
+1. Which product categories generate the most revenue?
+2. Which categories sell the most units?
+3. What is the average order value per category?
+4. Which categories contribute the highest percentage of total sales?
+5. How do sales trends change over time?
