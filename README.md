@@ -2,11 +2,11 @@
 This project analyzes e-commerce sales data using SQL to evaluate product category performance, regional sales trends, and profitability.
 
 The goal of the analysis is to identify:
-1. top-performing product categories
-2. the most profitable categories
-3. regional sales trends
-4. key drivers of revenue and profit
+1. Top-performing product categories
+2. The most profitable categories
+3. Regional sales trends
+4. Key drivers of revenue and profit
 
-#Dataset Description
+# Dataset Description
 The dataset contains transactional sales data with the following columns:
 
