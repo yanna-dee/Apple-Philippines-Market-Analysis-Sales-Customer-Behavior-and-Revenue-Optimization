@@ -1,11 +1,5 @@
 # E-commerce Sales Analysis by Product Category (SQL Project)
-This project analyzes e-commerce sales data using SQL to identify top-performing product categories, revenue trends, and purchasing behavior. The analysis aims to help businesses understand which product categories contribute the most to overall revenue and sales volume.
-
-Understanding category performance helps companies:
-1. Optimize product inventory
-2. Improve marketing strategies
-3. Focus promotions on high-performing categories
-   
+This project analyzes e-commerce sales data using SQL to identify top-performing product categories, revenue trends, and purchasing behavior. The analysis aims to help businesses understand which product categories contribute the most to overall revenue and sales volume.  
 # Business Problem
 This analysis answers the following questions:
 1. Which product categories generate the most revenue?
