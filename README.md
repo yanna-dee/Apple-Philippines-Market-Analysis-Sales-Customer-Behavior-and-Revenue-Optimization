@@ -1,14 +1,15 @@
 # E-commerce Sales Analysis by Product Category (SQL Project)
-## Project Overview
-This project analyzes e-commerce sales data using SQL (BigQuery) to evaluate product category performance, regional sales trends, and profitability.
+## I. Project Overview
+This project analyzes e-commerce sales data using SQL to evaluate product category performance, regional sales trends, and profitability.
 
+### Business Questions:
 The goal of the analysis is to identify:
 1. Top-performing product categories
 2. The most profitable categories
 3. Regional sales trends
 4. Key drivers of revenue and profit
 
-## Dataset Description
+## II. Dataset Description
 The dataset contains transactional sales data with the following columns:
 | Column       | Description                 |
 | ------------ | --------------------------- |
@@ -20,7 +21,7 @@ The dataset contains transactional sales data with the following columns:
 | Sales        | Total revenue generated     |
 | Profit       | Profit earned from the sale |
 
-## Data Preparation
+## III. Data Preparation
 
 Before performing analysis, the following checks were performed:
 1. Standardized column names
@@ -53,6 +54,20 @@ WHERE
   E.sales IS NULL
   OR E.profit IS NULL;
 ```
+
+## IV. Kay SQL Analysis
+
+### 1. Sales by Category
+### 2. Profit by Category
+### 3. Sales by Region
+### 4. Top Performing Products
+### 5. Profit Margin by Category
+
+## V. Key Insights
+
+## VI. Business Recommendations
+
+## VII. Tools Used
 
 ## References
 This project uses the "E-Commerce Sales Performance Analysis" from Kaggle.
