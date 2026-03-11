@@ -1,6 +1,6 @@
 # E-commerce Sales Analysis by Product Category (SQL Project)
 ## Project Overview
-This project analyzes e-commerce sales data using SQL to evaluate product category performance, regional sales trends, and profitability.
+This project analyzes e-commerce sales data using SQL (BigQuery) to evaluate product category performance, regional sales trends, and profitability.
 
 The goal of the analysis is to identify:
 1. Top-performing product categories
