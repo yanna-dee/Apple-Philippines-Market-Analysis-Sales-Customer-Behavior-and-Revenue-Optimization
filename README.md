@@ -23,24 +23,37 @@ The dataset contains transactional sales data with the following columns:
 ## Data Preparation
 
 Before performing analysis, the following checks were performed:
-1. Verified column data types
-2. Checked for missing values
-3. Confirmed date formatting
+1. Standardized column names
+2. Verified column data types
+3. Checked for missing values
+4. Confirmed date formatting
 
-Example Query:
+### Sample Queries
+
+Fixing column names:
 ```sql
-SELECT *
-FROM ecommerce_sales
-LIMIT 10;
+CREATE OR REPLACE TABLE `titanium-scope-381208.ecommerce_dataset.cleaned_ecommerce_data` AS
+SELECT
+  `Order Date` AS order_date,
+  `Product Name` AS product_name,
+  `Category` AS category,
+  `Region` AS region,
+  `Quantity` AS quantity,
+  `Sales` AS sales,
+  `Profit` AS profit
+FROM `titanium-scope-381208.ecommerce_dataset.ecommerce_data`;
+```
+Checking null values:
+```sql
+SELECT
+  *
+FROM
+  `titanium-scope-381208.ecommerce_dataset.cleaned_ecommerce_data` E
+WHERE
+  E.sales IS NULL
+  OR E.profit IS NULL;
 ```
 
-Checking for null values:
-```sql
-SELECT *
-FROM ecommerce_sales
-WHERE sales IS NULL
-   OR profit IS NULL;
-```
 ## References
 This project uses the "E-Commerce Sales Performance Analysis" from Kaggle.
 
