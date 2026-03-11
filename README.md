@@ -27,6 +27,13 @@ Before performing analysis, the following checks were performed:
 2. Checked for missing values
 3. Confirmed date formatting
 
+Sample Query
+```sql
+SELECT *
+FROM ecommerce_sales
+WHERE sales IS NULL
+   OR profit IS NULL;
+```
 ## References
 This project uses the "E-Commerce Sales Performance Analysis" from Kaggle.
 
