@@ -27,7 +27,14 @@ Before performing analysis, the following checks were performed:
 2. Checked for missing values
 3. Confirmed date formatting
 
-Sample Query
+Example Query:
+```sql
+SELECT *
+FROM ecommerce_sales
+LIMIT 10;
+```
+
+Checking for null values:
 ```sql
 SELECT *
 FROM ecommerce_sales
