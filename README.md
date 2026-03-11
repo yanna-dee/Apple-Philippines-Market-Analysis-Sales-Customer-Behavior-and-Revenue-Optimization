@@ -1,6 +1,6 @@
 # E-commerce Sales Analysis by Product Category (SQL Project)
 ## I. Project Overview
-This project analyzes e-commerce sales data using SQL to evaluate product category performance, regional sales trends, and profitability.
+This project analyzes historical e-commerce sales data using SQL to evaluate product category performance, regional sales trends, and profitability from the year 2022 to 2024.
 
 ### Business Questions:
 The goal of the analysis is to identify:
@@ -10,7 +10,7 @@ The goal of the analysis is to identify:
 4. Key drivers of revenue and profit
 
 ## II. Dataset Description
-The dataset contains transactional sales data with the following columns:
+### The dataset contains transactional sales data with the following columns:
 | Column       | Description                 |
 | ------------ | --------------------------- |
 | Order Date   | Date the order was placed   |
@@ -20,6 +20,11 @@ The dataset contains transactional sales data with the following columns:
 | Quantity     | Number of units sold        |
 | Sales        | Total revenue generated     |
 | Profit       | Profit earned from the sale |
+ 
+ ### Data shape
+ Rows: 3500
+ Columns: 7
+
 
 ## III. Data Preparation
 
@@ -55,9 +60,12 @@ WHERE
   OR E.profit IS NULL;
 ```
 
-## IV. Kay SQL Analysis
+## IV. Key SQL Analysis
 
 ### 1. Sales by Category
+```sql
+```
+
 ### 2. Profit by Category
 ### 3. Sales by Region
 ### 4. Top Performing Products
