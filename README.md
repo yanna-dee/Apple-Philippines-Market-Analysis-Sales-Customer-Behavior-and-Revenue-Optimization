@@ -20,6 +20,19 @@ The dataset contains transactional sales data with the following columns:
 | Sales        | Total revenue generated     |
 | Profit       | Profit earned from the sale |
 
+## Data Preparation
+
+Before performing analysis, the following checks were performed:
+1. Verified column data types
+2. Checked for missing values
+3. Confirmed date formatting
+
+### Sample Query
+SELECT *
+FROM ecommerce_sales
+WHERE sales IS NULL
+   OR profit IS NULL;
+
 ## References
 This project uses the "E-Commerce Sales Performance Analysis" from Kaggle.
 
