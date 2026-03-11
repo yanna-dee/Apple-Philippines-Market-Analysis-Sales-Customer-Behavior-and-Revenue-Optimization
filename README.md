@@ -8,5 +8,13 @@ The goal of the analysis is to identify:
 4. Key drivers of revenue and profit
 
 # Dataset Description
-The dataset contains transactional sales data with the following columns:
+This project uses the "E-Commerce Sales Performance Analysis" from Kaggle.
+
+Source: https://www.kaggle.com/datasets/sidramazam/e-commerce-sales-performance-analysis
+
+Author: Sidra M.Azam
+
+Citation:
+Sidra M.Azam. (2026). E-Commerce Sales Performance Analysis. Kaggle. 
+Retrieved from https://www.kaggle.com/datasets/sidramazam/e-commerce-sales-performance-analysis
 
