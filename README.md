@@ -24,8 +24,8 @@ With a background in Retail Operations at Lazada, this analysis simulates real-w
 - Return status
 
 ### Size
-Columns: 27
-Rows: 11,500
+- Columns: 27
+- Rows: 11,500
 
 ## Key Analysis Areas
 
