@@ -1,4 +1,4 @@
-# E-commerce Sales Analysis by Product Category (SQL Project)
+# Global Apple Retail Sales and Customer Behavior Analysis 
 ## I. Project Overview
 This project analyzes historical e-commerce sales data using SQL to evaluate product category performance, regional sales trends, and profitability from the year 2022 to 2024.
 
