@@ -48,7 +48,7 @@ With a background in Retail Operations at Lazada, this analysis simulates real-w
 - Higher return rates in select products (e.g., iPhone 13 Pro at 66.67%) are driven by low order volumes and are likely not statistically significant.
 - The Philippines ranks as the 8th lowest in return rates across Asia, reinforcing a positive post-purchase experience and strong product-market fit.
 
-### Business Recommendations
+## Business Recommendations
 - Maintain Premium Pricing: Sustain premium pricing across top categories, as demand remains strong without heavy discounting.
 Use Targeted Discounts: Apply low-level, strategic promotions to optimize conversions; avoid aggressive discounting that weakens margins.
 - Expand Institutional Sales: Strengthen partnerships with education, corporate, and government sectors to drive bulk and recurring revenue.
