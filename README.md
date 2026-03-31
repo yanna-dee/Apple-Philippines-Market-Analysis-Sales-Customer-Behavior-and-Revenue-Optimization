@@ -13,12 +13,12 @@ The goal of this analysis is to simulate real-world decision-making in an e-comm
 - Analyze return trends to reduce revenue loss
 
 ## Dataset
-- Source: Kaggle (Apple Global Sales Dataset)
-- Contains transactional data including:
- - Product details (model, storage, price)
- - Customer demographics
- - Sales and discount information
- - Return status
+### Source: Kaggle (Apple Global Sales Dataset)
+Contains transactional data including:
+- Product details (model, storage, price)
+- Customer demographics
+- Sales and discount information
+- Return status
 
 
 ## References
