@@ -13,8 +13,7 @@ The goal of this analysis is to simulate real-world decision-making in an e-comm
 - Analyze return trends to reduce revenue loss
 
 ## Dataset
-### Source: Kaggle (Apple Global Sales Dataset)
-Contains transactional data including:
+### Contains transactional data including:
 - Product details (model, storage, price)
 - Customer demographics
 - Sales and discount information
@@ -54,13 +53,8 @@ Contains transactional data including:
 - Focus marketing efforts on high-value customer segments
 
 ## References
-This project uses the " " from Kaggle.
+This project uses the "Apple Global Product Sales Dataset" from Kaggle.
 
-Source: https://www.kaggle.com/datasets/sidramazam/e-commerce-sales-performance-analysis
-
-Author: Sidra M.Azam
-
-Citation:
-Sidra M.Azam. (2026). E-Commerce Sales Performance Analysis. Kaggle. 
-Retrieved from https://www.kaggle.com/datasets/sidramazam/e-commerce-sales-performance-analysis
+Singh, A. (2026). Apple Global Product Sales Dataset. Kaggle. 
+Retrieved from https://www.kaggle.com/datasets/ashyou09/apple-global-product-sales-dataset
 
