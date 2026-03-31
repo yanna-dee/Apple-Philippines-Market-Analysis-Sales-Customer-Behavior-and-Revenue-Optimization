@@ -1,17 +1,21 @@
-# Global Apple Retail Sales and Customer Behavior Analysis 
+# Apple Philippines Market Analysis: E-commerce Sales, Customer Behavior, and Revenue Optimization
 
 ## Overview
+This project analyzes synthetic Apple retail sales data in the Philippines (2022–2024) to uncover insights on revenue growth, customer behavior, product performance, and return patterns.
 
-This project analyzes synthetic global Apple retail sales data to uncover insights on revenue performance, customer behavior, product trends, and return patterns.
-
-The goal of this analysis is to simulate real-world decision-making in an e-commerce environment—identifying opportunities to increase revenue, optimize pricing strategies, and reduce returns.
+With a background in Retail Operations at Lazada, this analysis simulates real-world decision-making in an e-commerce environment—focusing on how data can be used to drive revenue growth, optimize pricing strategies, and improve operational efficiency.
 
 ## Business Objectives
-- Identify top-performing products and regions
-- Evaluate the effectiveness of discount strategies
+- Evaluate revenue growth trends in the Philippine market
+- Identify top-performing products and categories
+- Assess discount effectiveness on revenue and volume
 - Understand customer segments and purchasing behavior
-- Analyze return trends to reduce revenue loss
+- Detect return patterns and potential revenue leakage
 
+## Tools
+- BigQuery SQL: Queries and Analysis
+- Excel: Visualization
+  
 ## Dataset
 ### Contains transactional data including:
 - Product details (model, storage, price)
@@ -19,14 +23,18 @@ The goal of this analysis is to simulate real-world decision-making in an e-comm
 - Sales and discount information
 - Return status
 
+### Size
+Columns: 27
+Rows: 11,500
+
 ## Key Analysis Areas
-### Sales Performance
+
+### Revenue Trends & Growth
 - Revenue trends over time
-- Top-performing regions and countries
+- Performance vs other Asian Countries
 
 ### Product Performance
-- Best-selling products by revenue and volume
-- High-performing product variants (e.g., storage size)
+- Best-selling products and category by revenue and volume
 
 ### Discount Effectiveness
 - Impact of discounts on sales volume vs revenue
@@ -37,20 +45,18 @@ The goal of this analysis is to simulate real-world decision-making in an e-comm
 - Preferred payment methods and channels
 
 ### Returns Analysis
-- Return rates by product, region, and segment
+- Return rates by product
+- Identification of high-risk products
+
+### Sales Channel and Payment Behavior
+- Return rates by product
 - Identification of high-risk products
 
 ### Key Insights
-- Higher discounts increased order volume but did not always improve total revenue
-- Premium product variants (higher storage) contributed disproportionately to revenue
-- Certain regions showed high return rates, indicating potential logistics or product fit issues
-- Specific customer segments generated the majority of revenue, highlighting targeting opportunities
+
 
 ### Business Recommendations
-- Optimize discount strategies to balance volume and profitability
-- Prioritize inventory for high-performing product variants
-- Investigate causes of high return rates in specific regions
-- Focus marketing efforts on high-value customer segments
+
 
 ## References
 This project uses the "Apple Global Product Sales Dataset" from Kaggle.
