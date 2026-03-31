@@ -49,8 +49,7 @@ With a background in Retail Operations at Lazada, this analysis simulates real-w
 - Identification of high-risk products
 
 ### Sales Channel and Payment Behavior
-- Return rates by product
-- Identification of high-risk products
+- 
 
 ### Key Insights
 
