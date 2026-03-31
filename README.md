@@ -20,6 +20,38 @@ Contains transactional data including:
 - Sales and discount information
 - Return status
 
+## Key Analysis Areas
+### Sales Performance
+- Revenue trends over time
+- Top-performing regions and countries
+
+### Product Performance
+- Best-selling products by revenue and volume
+- High-performing product variants (e.g., storage size)
+
+### Discount Effectiveness
+- Impact of discounts on sales volume vs revenue
+- Identification of optimal discount ranges
+
+### Customer Behavior
+- Revenue contribution by customer segments
+- Preferred payment methods and channels
+
+### Returns Analysis
+- Return rates by product, region, and segment
+- Identification of high-risk products
+
+### Key Insights
+- Higher discounts increased order volume but did not always improve total revenue
+- Premium product variants (higher storage) contributed disproportionately to revenue
+- Certain regions showed high return rates, indicating potential logistics or product fit issues
+- Specific customer segments generated the majority of revenue, highlighting targeting opportunities
+
+### Business Recommendations
+- Optimize discount strategies to balance volume and profitability
+- Prioritize inventory for high-performing product variants
+- Investigate causes of high return rates in specific regions
+- Focus marketing efforts on high-value customer segments
 
 ## References
 This project uses the " " from Kaggle.
