@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes global retail sales data to uncover insights on revenue performance, customer behavior, product trends, and return patterns.
+This project analyzes synthetic global Apple retail sales data to uncover insights on revenue performance, customer behavior, product trends, and return patterns.
 
 The goal of this analysis is to simulate real-world decision-making in an e-commerce environment—identifying opportunities to increase revenue, optimize pricing strategies, and reduce returns.
 
