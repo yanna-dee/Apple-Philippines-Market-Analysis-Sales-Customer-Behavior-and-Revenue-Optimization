@@ -11,10 +11,6 @@ With a background in Retail Operations at Lazada, this analysis simulates real-w
 - Assess discount effectiveness on revenue and volume
 - Understand customer segments and purchasing behavior
 - Detect return patterns and potential revenue leakage
-
-## Tools
-- BigQuery SQL: Queries and Analysis
-- Excel: Visualization
   
 ## Dataset
 ### Contains transactional data including:
