@@ -1,9 +1,9 @@
-# Apple Philippines Market Analysis: E-commerce Sales, Customer Behavior, and Revenue Optimization
+# Apple Philippines Market Analysis: Sales, Customer Behavior, and Revenue Optimization
 
 ## Overview
 This project analyzes synthetic Apple retail sales data in the Philippines (2022–2024) to uncover insights on revenue growth, customer behavior, product performance, and return patterns.
 
-With a background in Retail Operations at Lazada, this analysis simulates real-world decision-making in an e-commerce environment—focusing on how data can be used to drive revenue growth, optimize pricing strategies, and improve operational efficiency.
+This analysis simulates real-world decision-making in a retail environment—focusing on how data can be used to drive revenue growth, optimize pricing strategies, and improve operational efficiency.
 
 ## Business Objectives
 - Evaluate revenue growth trends in the Philippine market
