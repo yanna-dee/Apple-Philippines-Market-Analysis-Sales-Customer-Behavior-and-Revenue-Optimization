@@ -39,7 +39,7 @@ With a background in Retail Operations at Lazada, this analysis simulates real-w
 - Demand for Apple products in the Philippine market remains strong even without heavy discounting, with minimal reliance on promotions to drive sales volume.
 
 ### Customer Behavior
-- Revenue is concentrated among customers aged 25–34, 45–54, and 55+ within the education, business, and government sectors, with education leading at $58,948.46.
+- Revenue is heavily concentrated in the education segment (ages 25–34), which significantly outperforms other groups, while business (45–54) and government (55+) segments also contribute high-value sales with strong customer ratings.
 - These segments likely represent mid- to late-career professionals with higher disposable income and clear productivity-driven use cases.
 - Preferred channels include Corporate/B2B, Official Website, and Apple Stores, with dominant payment methods being Apple Pay, Gift Cards, and Cash.
 
