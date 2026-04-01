@@ -23,6 +23,10 @@ With a background in Retail Operations at Lazada, this analysis simulates real-w
 - Columns: 27
 - Rows: 11,500
 
+## Tools
+- BigQuery: SQL Analysis
+- MS Excel: Data Visualization
+
 ## Key Analysis Insights
 
 ### Revenue Trends & Growth
