@@ -35,7 +35,7 @@ With a background in Retail Operations at Lazada, this analysis simulates real-w
 - This reflects **resilient purchasing power** and a market that is **less price-sensitive**, particularly for high-performance and productivity-driven devices.
 
 ### Discount Effectiveness
-- **Non-discounted products** generate the highest revenue ($167,243.73) and sales volume (241 units), outperforming both low and medium discount tiers.
+- **Non-discounted products generate the highest revenue ($167,243.73)** and sales volume (241 units), outperforming both low and medium discount tiers.
 - Demand for Apple products in the Philippine market remains strong even without heavy discounting, with **minimal reliance on promotions** to drive sales volume.
 
 ### Customer Behavior
