@@ -29,6 +29,8 @@ With a background in Retail Operations at Lazada, this analysis simulates real-w
 - The Philippines generated a year-over-year growth of 14.91% (2024 vs. 2023).
 
 ### Product Performance
+<img width="893" height="637" alt="Screen Shot 2026-04-01 at 7 51 20 PM" src="https://github.com/user-attachments/assets/a08d3b26-15ce-4c58-9e1d-45530da3f80d" />
+
 - Mac, iPhone, iPad, and Apple Watch are the top-performing categories, led by the Mac Pro (M2 Ultra) generating $73,182.02 in revenue.
 - These categories also command the highest average selling prices (up to $2.3K), confirming strong demand for premium Apple products.
 - This reflects resilient purchasing power and a market that is less price-sensitive, particularly for high-performance and productivity-driven devices.
