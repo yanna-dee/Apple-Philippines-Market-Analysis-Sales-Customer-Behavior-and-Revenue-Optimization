@@ -26,8 +26,7 @@ With a background in Retail Operations at Lazada, this analysis simulates real-w
 ## Key Analysis Insights
 
 ### Revenue Trends & Growth
-- The Philippines ranks as the second-highest revenue-generating market in Asia, with year-over-year growth of 14.91% (2024 vs. 2023).
-- This sustained growth indicates a rapidly expanding and high-value market, reinforcing its importance as a key region for continued investment and expansion.
+- The Philippines generated a year-over-year growth of 14.91% (2024 vs. 2023).
 
 ### Product Performance
 - Mac, iPhone, iPad, and Apple Watch are the top-performing categories, led by the Mac Pro (M2 Ultra) generating $73,182.02 in revenue.
