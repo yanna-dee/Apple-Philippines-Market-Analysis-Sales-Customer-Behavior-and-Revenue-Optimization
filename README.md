@@ -31,7 +31,7 @@ With a background in Retail Operations at Lazada, this analysis simulates real-w
 
 ### Product Performance
 - **Mac, iPhone, iPad, and Apple Watch** are the top-performing categories, led by the Mac Pro (M2 Ultra) generating $73,182.02 in revenue.
-- These categories also command the **highest average selling prices** (up to $2.3K), confirming strong demand for premium Apple products.
+- These categories also command the **highest average selling prices (up to $2.3K)**, confirming strong demand for premium Apple products.
 - This reflects **resilient purchasing power** and a market that is **less price-sensitive**, particularly for high-performance and productivity-driven devices.
 
 ### Discount Effectiveness
