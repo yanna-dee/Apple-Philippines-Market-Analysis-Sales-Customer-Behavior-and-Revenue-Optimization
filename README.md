@@ -26,7 +26,8 @@ With a background in Retail Operations at Lazada, this analysis simulates real-w
 ## Key Analysis Insights
 
 ### Revenue Trends & Growth
-- The Philippines generated a year-over-year growth of 14.91% (2024 vs. 2023).
+- Revenue declined significantly in 2023 (-35.06%) before recovering in 2024 with a 14.91% increase, alongside a rebound in total units sold (from 130 to 156).
+- While performance has not yet returned to 2022 levels, the upward trend in 2024 signals early signs of market recovery and renewed demand.
 
 ### Product Performance
 - Mac, iPhone, iPad, and Apple Watch are the top-performing categories, led by the Mac Pro (M2 Ultra) generating $73,182.02 in revenue.
