@@ -41,7 +41,7 @@ With a background in Retail Operations at Lazada, this analysis simulates real-w
 ### Customer Behavior
 - Revenue is heavily concentrated in the education segment (ages 25–34), which significantly outperforms other groups, while business (45–54) and government (55+) segments also contribute high-value sales with strong customer ratings.
 - These segments likely represent mid- to late-career professionals with higher disposable income and clear productivity-driven use cases.
-- Preferred channels include Corporate/B2B, Official Website, and Apple Stores, with dominant payment methods being Apple Pay, Gift Cards, and Cash.
+- Preferred channels include Corporate/B2B, Official Website, and Apple Stores, with dominant payment methods being Apple Pay, Gift Cards, Cash, and Installment.
 
 ### Returns Analysis
 - Return rates are consistently low across high order volume products (e.g., iPhone 14 Pro at 18.18%), indicating strong customer satisfaction at scale.
