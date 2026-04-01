@@ -44,16 +44,16 @@ With a background in Retail Operations at Lazada, this analysis simulates real-w
 - Preferred channels include Corporate/B2B, Official Website, and Apple Stores, with dominant payment methods being Apple Pay, Gift Cards, and Cash.
 
 ### Returns Analysis
-- Return rates are consistently low across high order volume products (e.g., iPhone 14 Pro at 18.18%), indicating strong customer satisfaction at scale.
+- Return rates are consistently **low across high order volume products** (e.g., iPhone 14 Pro at 18.18%), indicating strong customer satisfaction at scale.
 - Higher return rates in select products (e.g., iPhone 13 Pro at 66.67%) are driven by low order volumes and are likely not statistically significant.
-- The Philippines ranks as the 8th lowest in return rates across Asia, reinforcing a positive post-purchase experience and strong product-market fit.
+- The Philippines ranks as the **8th lowest in return rates across Asia**, reinforcing a positive post-purchase experience and strong product-market fit.
 
 ## Business Recommendations
-- Optimize Pricing Strategy: Maintain premium pricing across top categories while leveraging targeted, low-level discounts to optimize conversions—avoiding aggressive promotions that may hurt margins.
-- Expand Institutional Sales: Strengthen partnerships with education, corporate, and government sectors to drive bulk and recurring revenue.
-- Target High-Value Segments: Focus marketing on ages 25–34, 45–54, and 55+ with messaging centered on productivity and professional use cases.
-- Prioritize High-Performing Channels: Invest in Corporate/B2B, Official Website, and Apple Stores, while optimizing preferred payment methods to reduce friction.
-- Sustain Low Return Rates: Maintain product quality and investigate outlier returns to further improve customer satisfaction.
+- **Optimize Pricing Strategy:** Maintain premium pricing across top categories while leveraging targeted, low-level discounts to optimize conversions—avoiding aggressive promotions that may hurt margins.
+- **Expand Institutional Sales:** Strengthen partnerships with education, corporate, and government sectors to drive bulk and recurring revenue.
+- **Target High-Value Segments:** Focus marketing on ages 25–34, 45–54, and 55+ with messaging centered on productivity and professional use cases.
+- **Prioritize High-Performing Channels:** Invest in Corporate/B2B, Official Website, and Apple Stores, while optimizing preferred payment methods to reduce friction.
+- **Sustain Low Return Rates:** Maintain product quality and investigate outlier returns to further improve customer satisfaction.
 
 ## References
 This project uses the "Apple Global Product Sales Dataset" from Kaggle.
