@@ -49,13 +49,11 @@ With a background in Retail Operations at Lazada, this analysis simulates real-w
 - The Philippines ranks as the 8th lowest in return rates across Asia, reinforcing a positive post-purchase experience and strong product-market fit.
 
 ## Business Recommendations
-- Maintain Premium Pricing: Sustain premium pricing across top categories, as demand remains strong without heavy discounting.
-Use Targeted Discounts: Apply low-level, strategic promotions to optimize conversions; avoid aggressive discounting that weakens margins.
+- Optimize Pricing Strategy: Maintain premium pricing across top categories while leveraging targeted, low-level discounts to optimize conversions—avoiding aggressive promotions that may hurt margins.
 - Expand Institutional Sales: Strengthen partnerships with education, corporate, and government sectors to drive bulk and recurring revenue.
 - Target High-Value Segments: Focus marketing on ages 25–34, 45–54, and 55+ with messaging centered on productivity and professional use cases.
 - Prioritize High-Performing Channels: Invest in Corporate/B2B, Official Website, and Apple Stores, while optimizing preferred payment methods to reduce friction.
 - Sustain Low Return Rates: Maintain product quality and investigate outlier returns to further improve customer satisfaction.
-- Scale Market Investment: Capitalize on strong growth in the Philippines through localized strategies and expanded market presence.
 
 ## References
 This project uses the "Apple Global Product Sales Dataset" from Kaggle.
