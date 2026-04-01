@@ -1,7 +1,7 @@
 # Apple Philippines Market Analysis: Sales, Customer Behavior, and Revenue Optimization
 
 ## Overview
-This project analyzes **synthetic Apple retail sales data in the Philippines (2022–2024)** to uncover insights on revenue growth, customer behavior, product performance, and return patterns.
+This project analyzes synthetic Apple retail sales data in the Philippines (2022–2024) to uncover insights on revenue growth, customer behavior, product performance, and return patterns.
 
 With a background in Retail Operations at Lazada, this analysis simulates real-world decision-making in a retail environment—focusing on how data can be used to drive revenue growth, optimize pricing strategies, and improve operational efficiency.
 
@@ -26,27 +26,27 @@ With a background in Retail Operations at Lazada, this analysis simulates real-w
 ## Key Analysis Insights
 
 ### Revenue Trends & Growth
-- The Philippines ranks as the **second-highest revenue-generating market in Asia**, with year-over-year growth of **14.91%** (2024 vs. 2023).
+- The Philippines ranks as the second-highest revenue-generating market in Asia, with year-over-year growth of 14.91% (2024 vs. 2023).
 - This sustained growth indicates a rapidly expanding and high-value market, reinforcing its importance as a key region for continued investment and expansion.
 
 ### Product Performance
-- **Mac, iPhone, iPad, and Apple Watch** are the top-performing categories, led by the Mac Pro (M2 Ultra) generating $73,182.02 in revenue.
-- These categories also command the **highest average selling prices (up to $2.3K)**, confirming strong demand for premium Apple products.
-- This reflects **resilient purchasing power** and a market that is **less price-sensitive**, particularly for high-performance and productivity-driven devices.
+- Mac, iPhone, iPad, and Apple Watch are the top-performing categories, led by the Mac Pro (M2 Ultra) generating $73,182.02 in revenue.
+- These categories also command the highest average selling prices (up to $2.3K), confirming strong demand for premium Apple products.
+- This reflects resilient purchasing power and a market that is less price-sensitive, particularly for high-performance and productivity-driven devices.
 
 ### Discount Effectiveness
-- **Non-discounted products generate the highest revenue ($167,243.73)** and sales volume (241 units), outperforming both low and medium discount tiers.
-- Demand for Apple products in the Philippine market remains strong even without heavy discounting, with **minimal reliance on promotions** to drive sales volume.
+- Non-discounted products generate the highest revenue ($167,243.73) and sales volume (241 units), outperforming both low and medium discount tiers.
+- Demand for Apple products in the Philippine market remains strong even without heavy discounting, with minimal reliance on promotions to drive sales volume.
 
 ### Customer Behavior
-- Revenue is concentrated among customers aged 25–34, 45–54, and 55+ within the **education, business, and government** sectors, with education leading at $58,948.46.
-- These segments likely represent **mid- to late-career professionals** with higher disposable income and clear **productivity-driven** use cases.
+- Revenue is concentrated among customers aged 25–34, 45–54, and 55+ within the education, business, and government sectors, with education leading at $58,948.46.
+- These segments likely represent mid- to late-career professionals with higher disposable income and clear productivity-driven use cases.
 - Preferred channels include Corporate/B2B, Official Website, and Apple Stores, with dominant payment methods being Apple Pay, Gift Cards, and Cash.
 
 ### Returns Analysis
-- Return rates are consistently **low across high order volume products** (e.g., iPhone 14 Pro at 18.18%), indicating strong customer satisfaction at scale.
+- Return rates are consistently low across high order volume products (e.g., iPhone 14 Pro at 18.18%), indicating strong customer satisfaction at scale.
 - Higher return rates in select products (e.g., iPhone 13 Pro at 66.67%) are driven by low order volumes and are likely not statistically significant.
-- The Philippines ranks as the **8th lowest in return rates across Asia**, reinforcing a positive post-purchase experience and strong product-market fit.
+- The Philippines ranks as the 8th lowest in return rates across Asia, reinforcing a positive post-purchase experience and strong product-market fit.
 
 ## Business Recommendations
 - **Optimize Pricing Strategy:** Maintain premium pricing across top categories while leveraging targeted, low-level discounts to optimize conversions—avoiding aggressive promotions that may hurt margins.
