@@ -61,7 +61,7 @@ With a background in Retail Operations at Lazada, this analysis simulates real-w
 <img width="729" height="448" alt="returnrate" src="https://github.com/user-attachments/assets/8f7ebc0c-39d3-4598-bf68-a14ecfa0da62" />
 
 - The Philippines ranks as the 8th lowest in return rates across Asia, reinforcing a positive post-purchase experience and strong product-market fit.
-<img width="655" height="325" alt="Screen Shot 2026-04-01 at 10 43 22 PM" src="https://github.com/user-attachments/assets/6458521b-cf24-4a36-ac01-f67b1ad1d997" />
+<img width="777" height="377" alt="Screen Shot 2026-04-01 at 11 19 40 PM" src="https://github.com/user-attachments/assets/31db098c-c378-43d3-ac36-8d2637a11311" />
 
 - Return rates are consistently low across high order volume products (e.g., iPhone 14 Pro at 18.18%), indicating strong customer satisfaction at scale.
 - Higher return rates in select products (e.g., iPhone 13 Pro at 66.67%) are driven by low order volumes and are likely not statistically significant.
