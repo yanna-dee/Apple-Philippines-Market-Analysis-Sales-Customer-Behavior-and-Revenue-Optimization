@@ -58,7 +58,7 @@ With a background in Retail Operations at Lazada, this analysis simulates real-w
 - Preferred channels include Corporate/B2B, Official Website, and Apple Stores, with dominant payment methods being Apple Pay, Gift Cards, Cash, and Installment.
 
 ### Returns Analysis
-<img width="729" height="448" alt="returnrate" src="https://github.com/user-attachments/assets/8f7ebc0c-39d3-4598-bf68-a14ecfa0da62" />
+<img width="725" height="471" alt="countryyyy" src="https://github.com/user-attachments/assets/a0dee040-e4ab-443e-9746-9e1ce797dfb4" />
 
 - The Philippines ranks as the 8th lowest in return rates across Asia (7.26%), reinforcing a positive post-purchase experience and strong product-market fit.
 <img width="777" height="377" alt="Screen Shot 2026-04-01 at 11 19 40 PM" src="https://github.com/user-attachments/assets/31db098c-c378-43d3-ac36-8d2637a11311" />
